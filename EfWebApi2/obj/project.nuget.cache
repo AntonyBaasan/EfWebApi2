@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1eYfSFyPxzI6qsyybU4AEZYK4QrMOl6/2qkm+j3mGQFBY5mcDZDxft49lkNS9Bql94b3N+NRYUlomFi3tvRAfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abaasandorj\\source\\repos\\EfWebApi2\\EfWebApi2\\EfWebApi2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abaasandorj\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
